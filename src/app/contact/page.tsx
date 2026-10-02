@@ -84,8 +84,8 @@ export default function ContactPage() {
                   <MapPin className="h-4 w-4 text-amber-800" />
                 </div>
                 <div>
-                  <span className="font-semibold text-stone-900 text-sm block">عنوان صالة العرض</span>
-                  <p className="mt-1 leading-relaxed">شارع التحلية، حي الأندلس، الرياض، المملكة العربية السعودية</p>
+                  <span className="font-semibold text-stone-900 text-sm block">عنوان المتجر</span>
+                  <p className="mt-1 leading-relaxed">سوريا - بانياس</p>
                 </div>
               </div>
 
