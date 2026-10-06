@@ -119,7 +119,7 @@ export default async function ProductDetailsPage({ params }: ProductPageProps) {
             </div>
 
             <div>
-              <h2 className="text-xs font-bold uppercase tracking-wider text-stone-500 mb-2">عن هذه التحفة</h2>
+              <h2 className="text-xs font-bold uppercase tracking-wider text-stone-500 mb-2">عن هذا المنتج</h2>
               <p className="text-sm leading-relaxed text-stone-700 sm:text-base">
                 {product.description}
               </p>

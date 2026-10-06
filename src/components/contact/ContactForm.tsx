@@ -65,7 +65,7 @@ export default function ContactForm() {
             type="tel"
             required
             dir="ltr"
-            placeholder="+966 50 000 0000"
+            placeholder="+963 995 000 000"
             value={formData.phone}
             onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
             className="w-full text-right rounded-xl border border-stone-200 bg-stone-50/50 px-4 py-3 text-sm text-stone-900 placeholder:text-stone-400 focus:border-amber-400 focus:bg-white focus:outline-hidden"
